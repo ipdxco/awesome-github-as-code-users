@@ -1,0 +1,26 @@
+blank_issues_enabled: false
+contact_links:
+  - name: filecoin-shipyard
+    url: https://github.com/filecoin-shipyard/github-mgmt/issues/new/choose
+    about: Requests for GitHub configuration changes in the filecoin-shipyard organization
+  - name: ipfs-shipyard
+    url: https://github.com/ipfs-shipyard/github-mgmt/issues/new/choose
+    about: Requests for GitHub configuration changes in the ipfs-shipyard organization
+  - name: ipfs
+    url: https://github.com/ipfs/github-mgmt/issues/new/choose
+    about: Requests for GitHub configuration changes in the ipfs organization
+  - name: ipld
+    url: https://github.com/ipld/github-mgmt/issues/new/choose
+    about: Requests for GitHub configuration changes in the ipld organization
+  - name: libp2p
+    url: https://github.com/libp2p/github-mgmt/issues/new/choose
+    about: Requests for GitHub configuration changes in the libp2p organization
+  - name: multiformats
+    url: https://github.com/multiformats/github-mgmt/issues/new/choose
+    about: Requests for GitHub configuration changes in the multiformats organization
+  - name: pl-strflt
+    url: https://github.com/pl-strflt/github-mgmt/issues/new/choose
+    about: Requests for GitHub configuration changes in the pl-strflt organization
+  - name: testground
+    url: https://github.com/testground/github-mgmt/issues/new/choose
+    about: Requests for GitHub configuration changes in the testground organization
