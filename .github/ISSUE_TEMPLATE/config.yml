@@ -3,6 +3,12 @@ contact_links:
   - name: filecoin-shipyard
     url: https://github.com/filecoin-shipyard/github-mgmt/issues/new/choose
     about: Requests for GitHub configuration changes in the filecoin-shipyard organization
+  - name: gov4git
+    url: https://github.com/gov4git/github-mgmt/issues/new/choose
+    about: Requests for GitHub configuration changes in the gov4git organization
+  - name: ipfs-examples
+    url: https://github.com/ipfs-examples/github-mgmt/issues/new/choose
+    about: Requests for GitHub configuration changes in the ipfs-examples organization
   - name: ipfs-shipyard
     url: https://github.com/ipfs-shipyard/github-mgmt/issues/new/choose
     about: Requests for GitHub configuration changes in the ipfs-shipyard organization
