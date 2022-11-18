@@ -18,6 +18,9 @@ contact_links:
   - name: ipld
     url: https://github.com/ipld/github-mgmt/issues/new/choose
     about: Requests for GitHub configuration changes in the ipld organization
+  - name: ipni
+    url: https://github.com/ipni/github-mgmt/issues/new/choose
+    about: Requests for GitHub configuration changes in the ipni organization
   - name: libp2p
     url: https://github.com/libp2p/github-mgmt/issues/new/choose
     about: Requests for GitHub configuration changes in the libp2p organization
