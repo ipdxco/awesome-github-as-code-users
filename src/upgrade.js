@@ -26,6 +26,7 @@ async function main() {
   }
 
   // Sleep for 60 seconds to allow the workflows to start
+  console.log('Waiting for workflows to start for 60s...')
   await new Promise(resolve => setTimeout(resolve, 60000));
 
   // Find latest upgrade workflow runs and wait for them to complete
@@ -127,6 +128,8 @@ async function main() {
       console.log(`Checks completed for ${pr.html_url}`)
     }
   }
+
+  // TODO: the PRs should introduce no changes, check comments to confirm that
 
   // Merge all the PRs
   for (const pr of prs) {

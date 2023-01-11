@@ -1,4 +1,4 @@
-export const repos = [
+export const orgs = [
   'filecoin-shipyard',
   'ipfs-examples',
   'ipfs-shipyard',
