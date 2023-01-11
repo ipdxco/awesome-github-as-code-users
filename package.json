@@ -1,0 +1,11 @@
+{
+  "type": "module",
+  "scripts": {
+    "upgrade": "node src/upgrade.js"
+  },
+  "dependencies": {
+    "@octokit/plugin-retry": "^3.0.9",
+    "@octokit/plugin-throttling": "^3.7.0",
+    "@octokit/rest": "^18.12.0"
+  }
+}
