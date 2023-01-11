@@ -4,7 +4,6 @@ This repository serves as a issue router for the [GitHub Management](https://git
 
 This currently includes the following organizations:
 - [filecoin-shipyard](https://github.com/filecoin-shipyard/github-mgmt)
-- [gov4git](https://github.com/gov4git/github-mgmt)
 - [ipfs-examples](https://github.com/ipfs-examples/github-mgmt)
 - [ipfs-shipyard](https://github.com/ipfs-shipyard/github-mgmt)
 - [ipfs](https://github.com/ipfs/github-mgmt)
