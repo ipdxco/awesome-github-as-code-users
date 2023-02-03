@@ -1,7 +1,8 @@
 {
   "type": "module",
   "scripts": {
-    "upgrade": "node src/upgrade.js"
+    "upgrade": "node src/upgrade.js",
+    "sync": "node src/sync.js"
   },
   "dependencies": {
     "@octokit/plugin-retry": "^3.0.9",

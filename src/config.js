@@ -1,4 +1,5 @@
 export const orgs = [
+  'filecoin-project',
   'filecoin-shipyard',
   'ipfs-examples',
   'ipfs-shipyard',
