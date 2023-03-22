@@ -12,4 +12,5 @@ This currently includes the following organizations:
 - [libp2p](https://github.com/libp2p/github-mgmt)
 - [multiformats](https://github.com/multiformats/github-mgmt)
 - [pl-strflt](https://github.com/pl-strflt/github-mgmt)
+- [plprobelab](https://github.com/plprobelab/github-mgmt)
 - [testground](https://github.com/testground/github-mgmt)

@@ -27,6 +27,9 @@ contact_links:
   - name: pl-strflt
     url: https://github.com/pl-strflt/github-mgmt/issues/new/choose
     about: Requests for GitHub configuration changes in the pl-strflt organization
+  - name: plprobelab
+    url: https://github.com/plprobelab/github-mgmt/issues/new/choose
+    about: Requests for GitHub configuration changes in the plprobelab organization
   - name: testground
     url: https://github.com/testground/github-mgmt/issues/new/choose
     about: Requests for GitHub configuration changes in the testground organization
