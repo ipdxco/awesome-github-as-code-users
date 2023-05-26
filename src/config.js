@@ -9,5 +9,6 @@ export const orgs = [
   'libp2p',
   'multiformats',
   'pl-strflt',
+  'plprobelab',
   'testground'
 ]
