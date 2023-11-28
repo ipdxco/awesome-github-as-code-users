@@ -1,6 +1,6 @@
 # GitHub Management Router
 
-This repository serves as a issue router for the [GitHub Management](https://github.com/protocol/github-mgmt-template) repositories owned by Protocol Labs.
+This repository serves as a issue router for the [GitHub Management](https://github.com/pl-strflt/github-mgmt-template) repositories owned by Protocol Labs.
 
 This currently includes the following organizations:
 - [filecoin-shipyard](https://github.com/filecoin-shipyard/github-mgmt)
