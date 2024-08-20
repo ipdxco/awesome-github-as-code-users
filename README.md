@@ -3,6 +3,7 @@
 This repository serves as a issue router for the [GitHub Management](https://github.com/pl-strflt/github-mgmt-template) repositories owned by Protocol Labs.
 
 This currently includes the following organizations:
+- [filecoin-project](https://github.com/filecoin-project/github-mgmt)
 - [ipfs-examples](https://github.com/ipfs-examples/github-mgmt)
 - [ipfs-shipyard](https://github.com/ipfs-shipyard/github-mgmt)
 - [ipfs](https://github.com/ipfs/github-mgmt)
